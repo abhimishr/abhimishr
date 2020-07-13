@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **abhimishr/abhimishr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e4759636f75ae0e5ab13a69b08dd6d245b5d5684c58&rid=giphy.gif)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abhimishr.visitor-badge)
