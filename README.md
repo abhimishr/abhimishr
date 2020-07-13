@@ -28,8 +28,8 @@ Working with
 
 Our open source land-use model 
 
-| [<img src="https://avatars2.githubusercontent.com/u/23235810?s=200&v=4" alt="MAgPIE logo" width="72">](https://github.com/magpiemodel/magpie/releases) |[<img src="https://image.freepik.com/free-vector/e-learning-concept-illustration_188398-135.jpg" alt="Tutorial logo" width="72">](https://github.com/magpiemodel/tutorials) | [<img src="https://www.geoscientific-model-development.net/graphic_gmd_cover_homepage.jpg" alt="Paper gmd logo" width="72">](https://gmd.copernicus.org/articles/12/1299/2019/)|
-|---|---|---|
+| [<img src="https://avatars2.githubusercontent.com/u/23235810?s=200&v=4" alt="MAgPIE logo" width="72">](https://github.com/magpiemodel/magpie/releases) | [<img src="https://www.geoscientific-model-development.net/graphic_gmd_cover_homepage.jpg" alt="Paper gmd logo" width="72">](https://gmd.copernicus.org/articles/12/1299/2019/)|
+|---|---|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
