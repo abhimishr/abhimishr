@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e4759636f75ae0e5ab13a69b08dd6d245b5d5684c58&rid=giphy.gif" alt="wateva"/>
+  <img src="https://raw.githubusercontent.com/abhimishr/abhimishr/master/affil.png" alt="affil"/>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
