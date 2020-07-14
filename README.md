@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <p align="center">
   <img src="https://media3.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e4759636f75ae0e5ab13a69b08dd6d245b5d5684c58&rid=giphy.gif" alt="wateva"/>
 </p>
@@ -33,6 +31,7 @@ Our open source land-use model
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=abhimishr&show_icons=true)
+<!--- ![github stats](https://github-readme-stats.vercel.app/api?username=abhimishr&show_icons=true)
+ -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
