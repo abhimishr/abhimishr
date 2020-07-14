@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/abhimishr/abhimishr/master/affil.png" alt="affil"/>
 </p>
 
+<!--
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-->
 
 Working with 
 
