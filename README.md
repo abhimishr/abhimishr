@@ -29,9 +29,9 @@ Our open source land-use model
 | [<img src="https://avatars2.githubusercontent.com/u/23235810?s=200&v=4" alt="MAgPIE logo" width="72">](https://github.com/magpiemodel/magpie/releases) | [<img src="https://www.geoscientific-model-development.net/graphic_gmd_cover_homepage.jpg" alt="Paper gmd logo" width="72">](https://gmd.copernicus.org/articles/12/1299/2019/)|
 |---|---|
 
+<!---
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ![github stats](https://github-readme-stats.vercel.app/api?username=abhimishr&show_icons=true)
 
-<!--- ![github stats](https://github-readme-stats.vercel.app/api?username=abhimishr&show_icons=true)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  -->
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
